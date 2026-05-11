@@ -1,4 +1,4 @@
-
+top Extension for Parallels Desktop for macOS - automated-tasks and virtualization is the best Parallels Desktop for macOS extension, featuring automated-tasks and virtualization.
 
 
 
